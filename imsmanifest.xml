@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_5uswn6bnBmb" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6ailGTaI8sT" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="EG.G10.ENG2023.SEM1.UD.T1.S1.2_ORG">
     <organization identifier="EG.G10.ENG2023.SEM1.UD.T1.S1.2_ORG">
       <title>EG.G10.ENG2023.SEM1.UD.T1.S1.2</title>
-      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__5uswn6bnBmb_RES">
+      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__6ailGTaI8sT_RES">
         <title>EG.G10.ENG2023.SEM1.UD.T1.S1.2</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5uswn6bnBmb_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6ailGTaI8sT_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5izCyQtTakN.png" />
       <file href="mobile/6e62NoGA06J.png" />
